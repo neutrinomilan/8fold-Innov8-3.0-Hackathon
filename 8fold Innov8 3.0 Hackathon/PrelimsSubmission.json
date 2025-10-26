@@ -1,0 +1,281 @@
+{
+  "subjects": [
+    {
+      "shadow_id": "atlas_2025",
+      "revealed_truth": {
+        "programming_experience": "internship (summer, ~1 year exposure)",
+        "programming_language": "",
+        "skill_mastery": "beginner",
+        "leadership_claims": "fabricated",
+        "team_experience": "observer / minimal contribution",
+        "skills and other keywords": [
+          "debugging",
+          "kubernetes",
+          "internship",
+          "networking",
+          "security"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": []
+        }
+      ]
+    },
+    {
+      "shadow_id": "buried_confession",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "individual contributor",
+        "skills and other keywords": []
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "copied"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "crius_2025",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "team player",
+        "skills and other keywords": [
+          "e-commerce"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "self_correction"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "drifted_anecdote",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "individual contributor",
+        "skills and other keywords": []
+      },
+      "deception_patterns": []
+    },
+    {
+      "shadow_id": "eos_2023",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "team player",
+        "skills and other keywords": [
+          "geo-replication",
+          "caching",
+          "cosmos db",
+          "backend systems"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "self_correction"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "hedge_and_dodge",
+      "revealed_truth": {
+        "programming_experience": "not exactly six years",
+        "programming_language": "",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "individual contributor",
+        "skills and other keywords": [
+          "debugging"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "self_correction"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "hyperion_2022",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "Python (Django, Celery)",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "individual contributor",
+        "skills and other keywords": [
+          "celery",
+          "django"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "self_correction"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "oceanus_2022",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "c++",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "team player",
+        "skills and other keywords": [
+          "networking",
+          "c++",
+          "low latency"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "self_correction"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "rehearsed_evasion",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "",
+        "skill_mastery": "intermediate",
+        "leadership_claims": "fabricated",
+        "team_experience": "team player",
+        "skills and other keywords": []
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "self_correction"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "rhea_2024",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "java",
+        "skill_mastery": "beginner",
+        "leadership_claims": "fabricated",
+        "team_experience": "junior dev (not architect)",
+        "skills and other keywords": [
+          "java",
+          "kafka",
+          "distributed systems",
+          "microservices"
+        ]
+      },
+      "deception_patterns": []
+    },
+    {
+      "shadow_id": "selene_2024",
+      "revealed_truth": {
+        "programming_experience": "limited (Rails strong, AI/ML minimal)",
+        "programming_language": "ruby",
+        "skill_mastery": "beginner",
+        "leadership_claims": "fabricated",
+        "team_experience": "individual contributor",
+        "skills and other keywords": [
+          "class imbalance",
+          "machine",
+          "pytorch",
+          "rails",
+          "smote",
+          "learning",
+          "tensorflow"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "experience_inflation",
+          "contradictory_claims": [
+            "only took a weekend workshop",
+            "weekend workshop"
+          ]
+        },
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": []
+        }
+      ]
+    },
+    {
+      "shadow_id": "selfcorrect_contradictions",
+      "revealed_truth": {
+        "programming_experience": "internship (summer, ~1 year exposure)",
+        "programming_language": "",
+        "skill_mastery": "beginner",
+        "leadership_claims": "fabricated",
+        "team_experience": "observer / minimal contribution",
+        "skills and other keywords": [
+          "sprints",
+          "internship"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "self_correction"
+          ]
+        }
+      ]
+    },
+    {
+      "shadow_id": "titan_2023",
+      "revealed_truth": {
+        "programming_experience": "unknown",
+        "programming_language": "javascript/react",
+        "skill_mastery": "beginner",
+        "leadership_claims": "fabricated",
+        "team_experience": "junior dev (not architect)",
+        "skills and other keywords": [
+          "react",
+          "custom hook"
+        ]
+      },
+      "deception_patterns": [
+        {
+          "lie_type": "self_admitted_deception",
+          "contradictory_claims": [
+            "fraud"
+          ]
+        }
+      ]
+    }
+  ]
+}
